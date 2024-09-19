@@ -8,7 +8,6 @@
   "name":"CO_Exit",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"PO_Menu","path":"objects/PO_Menu/PO_Menu.yy",},"propertyId":{"name":"text","path":"objects/PO_Menu/PO_Menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Exit",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"PO_Menu","path":"objects/PO_Menu/PO_Menu.yy",},"propertyId":{"name":"Textcolour","path":"objects/PO_Menu/PO_Menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"$FF000000",},
   ],
   "parent":{
     "name":"Menu",

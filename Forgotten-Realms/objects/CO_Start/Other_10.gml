@@ -3,5 +3,4 @@
 
 // Inherit the parent event
 event_inherited();
-O_Controller.transitionOccur = true
 
