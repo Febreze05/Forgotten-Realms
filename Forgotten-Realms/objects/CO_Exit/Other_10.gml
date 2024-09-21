@@ -3,4 +3,5 @@
 
 // Inherit the parent event
 event_inherited();
-
+// this just closes the game 
+game_end()
