@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fish_Timers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fish_Timers",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
