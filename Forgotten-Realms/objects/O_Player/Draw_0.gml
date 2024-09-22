@@ -1,5 +1,6 @@
 /// @description Insert description here
 // Changes sprite depending on current state
+// Changes sprite depending on current state
 switch (player_state) 
 {
 	case IDLE:
@@ -18,5 +19,6 @@ switch (player_state)
 		sprite_index = Sp_idle_air_Player;
 		break;
 }
+
 
 draw_self();

@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sp_Werewolf",
+    "path":"sprites/Sp_Werewolf/Sp_Werewolf.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
