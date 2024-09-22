@@ -9,7 +9,10 @@
     "name":"Fantasy",
     "path":"folders/Objects/Enemies/Fantasy.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Skeleton",
+    "path":"objects/O_Skeleton/O_Skeleton.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
