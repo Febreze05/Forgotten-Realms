@@ -23,8 +23,13 @@ if (instance_exists(O_TimerController)) {
         draw_set_color(c_yellow);
         draw_text(200, 360, "FishCaught: " + string(controller.fishCaught));
     } 
+	
+	 if (remaining_time > 0 ) {
+        draw_set_color(c_yellow);
+        draw_text(200, 200, "Fish ON!");
+	 }
     // this is the feedback based on success
-    if (controller.success) {
+    if (controller.success && !controller.fishing) {
         draw_set_color(c_yellow);
         draw_text(200, 200, "CATCH!");
     } 
