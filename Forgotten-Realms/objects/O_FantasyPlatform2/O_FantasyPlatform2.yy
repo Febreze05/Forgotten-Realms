@@ -1,10 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"O_FantasyPlatform2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"O_FantasyPlatform2",
   "overriddenProperties":[],
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sp_Platform2",
+    "path":"sprites/Sp_Platform2/Sp_Platform2.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
