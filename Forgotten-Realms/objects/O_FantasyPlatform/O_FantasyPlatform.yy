@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sp_Floor",
+    "path":"sprites/Sp_Floor/Sp_Floor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

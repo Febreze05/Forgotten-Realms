@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"O_ShadowMonster",
-  "eventList":[],
+  "%Name":"O_FantasyPlatform2",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_ShadowMonster",
+  "name":"O_FantasyPlatform2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fantasy",
-    "path":"folders/Objects/Enemies/Fantasy.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sp_ShadowMonster",
-    "path":"sprites/Sp_ShadowMonster/Sp_ShadowMonster.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

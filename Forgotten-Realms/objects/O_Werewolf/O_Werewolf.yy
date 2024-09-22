@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_ShadowMonster",
+  "%Name":"O_Werewolf",
   "eventList":[],
   "managed":true,
-  "name":"O_ShadowMonster",
+  "name":"O_Werewolf",
   "overriddenProperties":[],
   "parent":{
     "name":"Fantasy",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sp_ShadowMonster",
-    "path":"sprites/Sp_ShadowMonster/Sp_ShadowMonster.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

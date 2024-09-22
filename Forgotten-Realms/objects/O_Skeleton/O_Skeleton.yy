@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_ShadowMonster",
+  "%Name":"O_Skeleton",
   "eventList":[],
   "managed":true,
-  "name":"O_ShadowMonster",
+  "name":"O_Skeleton",
   "overriddenProperties":[],
   "parent":{
     "name":"Fantasy",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_ShadowMonster",
-    "path":"sprites/Sp_ShadowMonster/Sp_ShadowMonster.yy",
+    "name":"Sp_Skeleton",
+    "path":"sprites/Sp_Skeleton/Sp_Skeleton.yy",
   },
   "spriteMaskId":null,
   "visible":true,
