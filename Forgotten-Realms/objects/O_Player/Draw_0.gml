@@ -1,6 +1,5 @@
-/// @description Animation Handling
-// You can write your code in this editor
-
+/// @description Insert description here
+// Changes sprite depending on current state
 // Changes sprite depending on current state
 switch (player_state) 
 {
@@ -23,22 +22,3 @@ switch (player_state)
 
 
 draw_self();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
