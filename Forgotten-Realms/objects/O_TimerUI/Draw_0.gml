@@ -33,7 +33,8 @@ if (instance_exists(O_TimerController)) {
         draw_set_color(c_yellow);
         draw_text(200, 200, "CATCH!");
     } 
-	if (remaining_time <= 0 && controller.success = false && controller.fishCatch = false && controller.fishing) {
+	if (remaining_time <= 0 && controller.success = false && controller.fishing)
+	{
         draw_set_color(c_red);
         draw_text(200, 200, "LOST IT!");
     }

@@ -12,6 +12,7 @@
     {"name":"inst_35052618","path":"rooms/R_Cozy_Level/R_Cozy_Level.yy",},
     {"name":"inst_61E1ABA4","path":"rooms/R_Cozy_Level/R_Cozy_Level.yy",},
     {"name":"inst_60A204A7","path":"rooms/R_Cozy_Level/R_Cozy_Level.yy",},
+    {"name":"inst_5056066B","path":"rooms/R_Cozy_Level/R_Cozy_Level.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -23,6 +24,7 @@
         {"$GMRInstance":"v1","%Name":"inst_35052618","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35052618","objectId":{"name":"O_TimerController","path":"objects/O_TimerController/O_TimerController.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":128.0,},
         {"$GMRInstance":"v1","%Name":"inst_61E1ABA4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_61E1ABA4","objectId":{"name":"O_TimerUI","path":"objects/O_TimerUI/O_TimerUI.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":160.0,},
         {"$GMRInstance":"v1","%Name":"inst_60A204A7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_60A204A7","objectId":{"name":"O_Fish","path":"objects/O_Fish/O_Fish.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":224.0,"y":128.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5056066B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5056066B","objectId":{"name":"O_Music","path":"objects/O_Music/O_Music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":96.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_35BFB279","animationSpeed":1.0,"colour":3372220415,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_35BFB279","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.3333334,"scaleY":2.6296296,"spriteId":{"name":"S_Water","path":"sprites/S_Water/S_Water.yy",},"x":192.0,"y":64.0,},
