@@ -39,14 +39,14 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Forgotten-Realms",
   "resources":[
     {"id":{"name":"Default_Font","path":"fonts/Default_Font/Default_Font.yy",},},
     {"id":{"name":"CO_Exit","path":"objects/CO_Exit/CO_Exit.yy",},},
     {"id":{"name":"CO_Start","path":"objects/CO_Start/CO_Start.yy",},},
-    {"id":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},},
+    {"id":{"name":"O_FantasyPlatform","path":"objects/O_FantasyPlatform/O_FantasyPlatform.yy",},},
     {"id":{"name":"O_FantasyPlatform2","path":"objects/O_FantasyPlatform2/O_FantasyPlatform2.yy",},},
     {"id":{"name":"O_MagicTrap","path":"objects/O_MagicTrap/O_MagicTrap.yy",},},
     {"id":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},},
@@ -75,9 +75,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"R_Fantasy_level","path":"rooms/R_Fantasy_level/R_Fantasy_level.yy",},},
     {"roomId":{"name":"R_StartScreen","path":"rooms/R_StartScreen/R_StartScreen.yy",},},
     {"roomId":{"name":"R_EndScreen","path":"rooms/R_EndScreen/R_EndScreen.yy",},},
+    {"roomId":{"name":"R_Fantasy_level","path":"rooms/R_Fantasy_level/R_Fantasy_level.yy",},},
     {"roomId":{"name":"R_Space_Level","path":"rooms/R_Space_Level/R_Space_Level.yy",},},
     {"roomId":{"name":"R_Cozy_Level","path":"rooms/R_Cozy_Level/R_Cozy_Level.yy",},},
   ],

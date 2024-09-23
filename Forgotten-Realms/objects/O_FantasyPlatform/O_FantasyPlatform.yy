@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_FantasyPlatform2",
+  "%Name":"O_FantasyPlatform",
   "eventList":[],
   "managed":true,
-  "name":"O_FantasyPlatform2",
+  "name":"O_FantasyPlatform",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Platform2",
-    "path":"sprites/Sp_Platform2/Sp_Platform2.yy",
+    "name":"Sp_Floor",
+    "path":"sprites/Sp_Floor/Sp_Floor.yy",
   },
   "spriteMaskId":null,
   "visible":true,
