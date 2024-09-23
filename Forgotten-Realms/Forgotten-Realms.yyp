@@ -83,6 +83,7 @@
     {"id":{"name":"S_Book_Start","path":"sprites/S_Book_Start/S_Book_Start.yy",},},
     {"id":{"name":"S_Book","path":"sprites/S_Book/S_Book.yy",},},
     {"id":{"name":"S_Clouds","path":"sprites/S_Clouds/S_Clouds.yy",},},
+    {"id":{"name":"S_EnemyProjectile","path":"sprites/S_EnemyProjectile/S_EnemyProjectile.yy",},},
     {"id":{"name":"S_Fish_1","path":"sprites/S_Fish_1/S_Fish_1.yy",},},
     {"id":{"name":"S_Fish_2","path":"sprites/S_Fish_2/S_Fish_2.yy",},},
     {"id":{"name":"S_Fish_3","path":"sprites/S_Fish_3/S_Fish_3.yy",},},
