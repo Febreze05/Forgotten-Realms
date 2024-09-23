@@ -17,6 +17,7 @@ if (keyboard_check_pressed(vk_space)and (fishing = true))
 		debug_event("complete")	
 		alarm[0] = 0
 		fishCaught += 1
+		audio_play_sound(FishCaught, 0, 0);
     } 
 	// this is just checking if the player did nothing then we set these two vars
 	else
