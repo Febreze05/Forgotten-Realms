@@ -68,6 +68,10 @@ if (able_to_move)
 	} //if
 
 
+	if (place_meeting(x, y + vsp, O_BookCollision))
+	{
+		Player_Death()
+	}
 
 	//Vertical Collision
 	if (place_meeting(x, y + vsp, O_Collision))

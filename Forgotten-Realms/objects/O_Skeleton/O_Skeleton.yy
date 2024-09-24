@@ -2,15 +2,15 @@
   "$GMObject":"",
   "%Name":"O_Skeleton",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_Skeleton",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fantasy",
-    "path":"folders/Objects/Enemies/Fantasy.yy",
+    "name":"Fantasy_levelStuff",
+    "path":"folders/Objects/Fantasy_levelStuff.yy",
   },
   "parentObjectId":null,
   "persistent":false,
