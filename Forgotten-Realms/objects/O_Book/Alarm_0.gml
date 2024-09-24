@@ -13,6 +13,12 @@ switch (O_Controller.nextlevel)
 		room_goto(R_Fantasy_level)
 		break
 	}
+	case 2:
+	{
+		O_Controller.nextlevel = 0
+		room_goto(R_StartScreen)
+		break
+	}
 
 }
 
