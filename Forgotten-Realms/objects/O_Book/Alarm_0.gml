@@ -15,6 +15,11 @@ switch (O_Controller.nextlevel)
 	}
 	case 2:
 	{
+		room_goto(R_Space_Level)
+		break
+	}
+	case 3:
+	{
 		O_Controller.nextlevel = 0
 		room_goto(R_StartScreen)
 		break

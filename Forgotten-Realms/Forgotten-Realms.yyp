@@ -144,8 +144,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"R_Space_Level","path":"rooms/R_Space_Level/R_Space_Level.yy",},},
     {"roomId":{"name":"R_StartScreen","path":"rooms/R_StartScreen/R_StartScreen.yy",},},
+    {"roomId":{"name":"R_Space_Level","path":"rooms/R_Space_Level/R_Space_Level.yy",},},
     {"roomId":{"name":"R_Fantasy_level","path":"rooms/R_Fantasy_level/R_Fantasy_level.yy",},},
     {"roomId":{"name":"R_EndScreen","path":"rooms/R_EndScreen/R_EndScreen.yy",},},
     {"roomId":{"name":"R_Cozy_Level","path":"rooms/R_Cozy_Level/R_Cozy_Level.yy",},},
