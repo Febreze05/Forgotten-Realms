@@ -1,8 +1,7 @@
 /// @description Start end level sequence
 
-if (interacted = false)
-{
-interacted = true
-O_Controller.nextlevel += 1
-O_Controller.transitionOccur = true
-}
+//start end level sequence
+x = 0
+y = 0
+window_set_cursor(cr_none)	
+alarm[0] = 175

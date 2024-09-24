@@ -9,7 +9,7 @@ switch (player_state)
 		break;
 		
 	case RUNNING:
-		sprite_index = Sp_Walk_player;
+		sprite_index = Sp_walk_Player;
 		break;
 		
 	case JUMPING:
@@ -17,7 +17,7 @@ switch (player_state)
 		break;
 		
 	case FALLING:
-		sprite_index = Sp_Idle_air_Player;
+		sprite_index = Sp_idle_air_Player;
 		break;
 }
 
