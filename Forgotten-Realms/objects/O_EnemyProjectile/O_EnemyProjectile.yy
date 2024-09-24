@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"O_SpacePlayer",
+  "%Name":"O_EnemyProjectile",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_EnemyProjectile","path":"objects/O_EnemyProjectile/O_EnemyProjectile.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_SpacePlayer",
+  "name":"O_EnemyProjectile",
   "overriddenProperties":[],
   "parent":{
     "name":"Space_LevelStuff",
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_SpacePlayer",
-    "path":"sprites/S_SpacePlayer/S_SpacePlayer.yy",
+    "name":"S_EnemyProjectile",
+    "path":"sprites/S_EnemyProjectile/S_EnemyProjectile.yy",
   },
   "spriteMaskId":null,
   "visible":true,
