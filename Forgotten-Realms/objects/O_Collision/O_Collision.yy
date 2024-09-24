@@ -6,8 +6,8 @@
   "name":"O_Collision",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fantasy_levelStuff",
-    "path":"folders/Objects/Fantasy_levelStuff.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"floor",
+    "path":"sprites/floor/floor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

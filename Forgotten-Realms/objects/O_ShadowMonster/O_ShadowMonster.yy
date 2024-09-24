@@ -6,13 +6,10 @@
   "name":"O_ShadowMonster",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fantasy",
-    "path":"folders/Objects/Enemies/Fantasy.yy",
+    "name":"Fantasy_levelStuff",
+    "path":"folders/Objects/Fantasy_levelStuff.yy",
   },
-  "parentObjectId":{
-    "name":"O_Skeleton",
-    "path":"objects/O_Skeleton/O_Skeleton.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

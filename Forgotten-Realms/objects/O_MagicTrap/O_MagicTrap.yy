@@ -6,8 +6,8 @@
   "name":"O_MagicTrap",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Fantasy_levelStuff",
+    "path":"folders/Objects/Fantasy_levelStuff.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sp_MagicTrap",
-    "path":"sprites/Sp_MagicTrap/Sp_MagicTrap.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

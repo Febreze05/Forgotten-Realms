@@ -6,8 +6,8 @@
   "name":"O_Werewolf",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fantasy",
-    "path":"folders/Objects/Enemies/Fantasy.yy",
+    "name":"Fantasy_levelStuff",
+    "path":"folders/Objects/Fantasy_levelStuff.yy",
   },
   "parentObjectId":{
     "name":"O_Skeleton",
