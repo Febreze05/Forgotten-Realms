@@ -39,4 +39,5 @@ num = irandom_range(1,250)
 if (num = 1)
 {
 shootPlayer = instance_create_layer(x, y, "Playablelayer", O_EnemyProjectile)
+audio_play_sound(Shooting, 0,0);
 }

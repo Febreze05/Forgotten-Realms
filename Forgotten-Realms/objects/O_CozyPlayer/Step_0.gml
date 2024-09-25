@@ -8,5 +8,5 @@ if (cast && (hasCasted = false))
 		alarm[0] = 15
 		
 	
-		//audio_play_sound(jump_sound, 1, false);
+		
 	} 

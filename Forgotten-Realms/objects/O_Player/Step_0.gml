@@ -57,8 +57,7 @@ if (able_to_move)
 	
 		grounded = false
 	
-		// Commented out until I get a jump sound
-		//audio_play_sound(jump_sound, 1, false);
+		audio_play_sound(Jump, 1, false);
 	
 	} //if
 

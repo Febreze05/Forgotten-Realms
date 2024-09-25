@@ -62,7 +62,7 @@ y = y + vsp;
 
 if (!place_meeting(x,y+1,O_Collision))
 {
-	sprite_index = Sp_SkeletonS;
+	sprite_index = Sp_Skeleton;
 	image_speed = 0;
 	if (sign(vsp) > 0) image_index = 1; else image_index = 0;
 }
@@ -72,7 +72,7 @@ else
 	image_speed = 1;
 	if (hsp == 0)
 	{
-		sprite_index = Sp_SkeletonS;
+		sprite_index = Sp_Skeleton;
 	}
 	
 	else
