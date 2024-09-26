@@ -46,7 +46,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Forgotten-Realms",
   "resources":[
@@ -67,6 +67,7 @@
     {"id":{"name":"O_Fish","path":"objects/O_Fish/O_Fish.yy",},},
     {"id":{"name":"O_Goal","path":"objects/O_Goal/O_Goal.yy",},},
     {"id":{"name":"O_Instructions","path":"objects/O_Instructions/O_Instructions.yy",},},
+    {"id":{"name":"O_Instructionsforfantasy","path":"objects/O_Instructionsforfantasy/O_Instructionsforfantasy.yy",},},
     {"id":{"name":"O_Laser","path":"objects/O_Laser/O_Laser.yy",},},
     {"id":{"name":"O_MagicTrap","path":"objects/O_MagicTrap/O_MagicTrap.yy",},},
     {"id":{"name":"O_Music","path":"objects/O_Music/O_Music.yy",},},
@@ -142,6 +143,7 @@
     {"id":{"name":"Sp_Skeleton","path":"sprites/Sp_Skeleton/Sp_Skeleton.yy",},},
     {"id":{"name":"Sp_Walk_player","path":"sprites/Sp_Walk_player/Sp_Walk_player.yy",},},
     {"id":{"name":"Sp_Werewolf","path":"sprites/Sp_Werewolf/Sp_Werewolf.yy",},},
+    {"id":{"name":"Text","path":"sprites/Text/Text.yy",},},
     {"id":{"name":"title_Screen","path":"sprites/title_Screen/title_Screen.yy",},},
     {"id":{"name":"VINES___Second","path":"sprites/VINES___Second/VINES___Second.yy",},},
     {"id":{"name":"WOODS___First","path":"sprites/WOODS___First/WOODS___First.yy",},},
