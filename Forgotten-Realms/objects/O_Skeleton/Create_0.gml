@@ -7,3 +7,5 @@ hsp = walksp;
 grounded = false;
 able_to_move = true;
 afraidofheights = 0;
+
+image_xscale = 1

@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"Sp_Werewolf",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":74,
-  "bbox_left":0,
+  "bbox_left":11,
   "bbox_right":109,
   "bbox_top":0,
   "collisionKind":1,
