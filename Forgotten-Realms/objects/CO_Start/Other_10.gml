@@ -3,5 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-O_Controller.transitionOccur = true
+room_goto(R_Cozy_Level)
+// O_Controller.transitionOccur = true
 

@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_Laser",
-    "path":"sprites/S_Laser/S_Laser.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

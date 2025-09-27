@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_EnemyProjectile",
-    "path":"sprites/S_EnemyProjectile/S_EnemyProjectile.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

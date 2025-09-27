@@ -16,13 +16,15 @@ if (instance_exists(O_TimerController)) {
     draw_set_color(c_yellow);
     draw_text(200, 330, "Countdown: " + string(round(remaining_time)));
 	
-	 draw_set_color(c_yellow);
-        draw_text(200, 390, "Fish Needed: 8 ");
 
- if (controller.fishCaught) {
+ //if (controller.fishCaught) 
+    //{
         draw_set_color(c_yellow);
-        draw_text(200, 360, "FishCaught: " + string(controller.fishCaught));
-    } 
+        draw_text(200, 360, "PlayerStrength: " + string(controller.pressedAmount));
+		
+		draw_set_color(c_yellow);
+        draw_text(200, 390, "FishStrength: " + string(controller.fishpressedAmount));
+    //} 
 	
 	 if (remaining_time > 0 ) {
         draw_set_color(c_yellow);
@@ -33,7 +35,7 @@ if (instance_exists(O_TimerController)) {
         draw_set_color(c_yellow);
         draw_text(200, 200, "CATCH!");
     } 
-	if (remaining_time <= 0 && controller.success = false && controller.fishing)
+	if (remaining_time <= 0 && controller.success = false && controller.fishing = false)
 	{
         draw_set_color(c_red);
         draw_text(200, 200, "LOST IT!");

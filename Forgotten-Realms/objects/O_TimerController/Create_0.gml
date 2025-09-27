@@ -8,7 +8,10 @@ fishCatch = false
 fishing = false
 fishCaught = 0
 levelswitch = false
+pressedAmount = 0;
+fishpressedAmount = 0;
 // this is  Set the initial target time 
 target_time = random_range(1, 3); 
+
 
 

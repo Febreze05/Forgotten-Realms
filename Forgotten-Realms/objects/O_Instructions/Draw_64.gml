@@ -5,9 +5,5 @@
 draw_set_font(Default_Font);
 draw_set_color(c_black);
 
-draw_text(x + border,y + border + space, "Fishing Game:");
+draw_text(x + border,y + border + space, "                               Instructions:");
 draw_text(x + border, y + border + space*2, "Spacebar to start fishing the press it again to catch a fish");
-draw_text(x + border, y + border + space*3, "Medieval Game:");
-draw_text(x + border, y + border + space*4, "WASD to move and SpaceBar to jump");
-draw_text(x + border, y + border + space*5, "Space Shooter Game:");
-draw_text(x + border, y + border + space*6, "A move left, D move right and SpaceBar to shoot");
