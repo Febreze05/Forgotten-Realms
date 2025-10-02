@@ -1,5 +1,6 @@
 /// @description Initilizing Vars
-hasCasted = false
+hasCasted = false;
+afterCatchTimer = true;
 
 // this is the Player States
 IDLE = 0;

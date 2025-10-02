@@ -1,6 +1,6 @@
 /// @description Hooking for real
 //we are checking if the player hits the space button and if they do they hook 
-if (keyboard_check_pressed(vk_space)and (fishing = true))
+if (keyboard_check_pressed(vk_space) and (fishing = true))
 {
     // Check timing against target time
     var remaining_time = max(0,alarm[0]);
@@ -19,7 +19,8 @@ if (keyboard_check_pressed(vk_space)and (fishing = true))
 		fishpressedAmount = 0;
 		debug_event("complete")	
 		alarm[0] = 0
-		fishCaught += 1;
+		fishCaught += 10*countdown_time;
+		overallFishCaught += 10*countdown_time;
 		audio_play_sound(FishCaught, 0, 0);
     } 
 	// this is just checking if the player did nothing then we set these two vars
@@ -28,5 +29,5 @@ if (keyboard_check_pressed(vk_space)and (fishing = true))
         success = false; 
 		fishing = false;
     }
-	pressedAmount +=1;	
+	pressedAmount += 1*pressedMulti;	
 }
