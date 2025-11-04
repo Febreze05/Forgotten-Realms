@@ -4,3 +4,4 @@ startingx = x
 collidingx = x - 10
 // this is the x position it moves to when hovered 
 endx = x - 100
+extraSize = 1.0;
