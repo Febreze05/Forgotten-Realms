@@ -21,7 +21,8 @@ if (keyboard_check_pressed(vk_space) and (fishing = true))
 		alarm[0] = 0
 		fishCaught += 10*countdown_time;
 		overallFishCaught += 10*countdown_time;
-		audio_play_sound(FishCaught, 0, 0);
+		scr_play_sound_with_caption(FishCaught, " Ding ", 2);
+		//audio_play_sound(FishCaught, 0, 0);
     } 
 	// this is just checking if the player did nothing then we set these two vars
     if(remaining_time <= 0)

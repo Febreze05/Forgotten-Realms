@@ -18,6 +18,7 @@ upgrade1amount = 10;
 target_time = random_range(1, 3); 
 timer =  max(0,alarm[4]);
 alarm[4] = room_speed*100;
+longerfishingtime = 1;
 
 
 

@@ -12,4 +12,5 @@ cam = view_camera[0];
 base_width = 1366;
 base_height = 768; // assign first camera
 
-Font_level =1.0;
+Font_level = 1.0;
+

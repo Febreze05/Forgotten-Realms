@@ -4,7 +4,8 @@ if(fishCatch = false)
 {
 pressedAmount = 0;
 fishpressedAmount = 0;
-audio_play_sound(FishLost, 0,0);
+//audio_play_sound(FishLost, 0,0);
+scr_play_sound_with_caption(FishLost, " Crunch ", 2);
 }
 is_timing = false;
 success = false; // Time is up
